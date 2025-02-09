@@ -48,3 +48,5 @@ public class SelectionSort {
         selection_sort(arr, n);
     }
 }
+//Time complexity: O(N^2), (where N = size of the array), for the best, worst, and average cases.
+//Space Complexity: O(1)
